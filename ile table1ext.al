@@ -10,7 +10,7 @@ tableextension 50143 ile extends "Item Ledger Entry"
         {
             DataClassification = ToBeClassified;
         }
-        // Add changes to table fields here
+        // Add changes to table fields here abhi
 
     }
 }
